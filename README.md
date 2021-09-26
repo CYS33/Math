@@ -1,2 +1,2 @@
 # Math
-haha
+This is a math app.
